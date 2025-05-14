@@ -1,0 +1,268 @@
+commit ef218c622438f3c5b500466579cadd3d2e4032d1
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Feb 28 08:10:34 2023 -0500
+
+    modified host target
+
+commit 28d2c0b68d9259fa0bb1dceea507e2034c0d255b
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Feb 28 08:03:26 2023 -0500
+
+    modified host target
+
+commit da4f583d3f8baed12ce152307e291913437206f5
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Feb 28 07:45:58 2023 -0500
+
+    updated to vite 4 and reinstalled
+
+commit d74d2ce4960e07a8767c7bdc37c0f802243c3452
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Feb 28 07:16:26 2023 -0500
+
+    updated to vite 4
+
+commit 3ae6b6f1643ff8f1ee6ffd2f38d623dbe88666f2
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Thu Dec 29 01:24:03 2022 +0000
+
+    updated devcontainer, deleted docs files
+
+commit cd3515ef3da6f66c5446365d8c1734ebec416e06
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 28 20:19:21 2022 -0500
+
+    Update devcontainer.json
+
+commit a47861805e7eeb12419c3aab75b4be9ad2119f2f
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 28 20:16:43 2022 -0500
+
+    Update devcontainer.json
+
+commit c7539c9169b2b90eed13e3275c45698d9e9079f2
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 28 20:11:00 2022 -0500
+
+    Update devcontainer.json
+
+commit 8e78cb75ae64e273fa00cdf68932746127ea5075
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Dec 28 19:38:07 2022 -0500
+
+    Added git pull --all command
+    
+    To make sure branches are imported
+
+commit 66f535a7158d5838bf85dd405b4427509f7c6a6a
+Author: Patrick Stevens <pstevens@linkedin.com>
+Date:   Tue Nov 8 21:35:52 2022 -0800
+
+    Update README.md
+
+commit e5e94a61b353dd6f7b5d14ccc02303fb5c4baa0c
+Author: Patrick Stevens <pstevens@linkedin.com>
+Date:   Tue Nov 8 21:33:51 2022 -0800
+
+    Update README.md
+
+commit 2c062fee9feae49b832e4d3e95fae49b709c4981
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Tue Nov 8 14:43:08 2022 -0800
+
+    Update README.md
+
+commit 6f3021d5138cb4adbe15fa188aa1da2734dd5290
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon Nov 7 08:00:28 2022 -0800
+
+    Update main.yml
+
+commit 19875148d928041517e4ba507286963639afbdc0
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon Nov 7 07:59:44 2022 -0800
+
+    Update README.md
+
+commit 290d7a8dc7398fe6d9ea96c674ca9bf79ba08639
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Tue Oct 11 16:46:27 2022 -0700
+
+    Update NOTICE
+
+commit d18e3e1e935ec46a9306fccac7a760959ca6bc76
+Merge: f5f6cfb e830012
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 07:53:58 2022 +0000
+
+    updated path
+
+commit f5f6cfbb10151d1b5520ff2a28a962fdddaeea24
+Merge: b989dda f85f9c2
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 07:51:49 2022 +0000
+
+    Merge branch '03_05e'
+
+commit f85f9c2ded20fe9dd50a9387546028b4334e802f
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 07:51:13 2022 +0000
+
+    03_05e
+
+commit e830012b62e3863f360245c4ca7b9a067a94a673
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 02:55:23 2022 -0400
+
+    finished
+
+commit 87fc4579a32745bc02b3caade348a068b65906f7
+Merge: b989dda ba5615b
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 02:54:22 2022 -0400
+
+    Merge branch '03_05e'
+
+commit ba5615b9fbf3a82980bd592f683be5f5f0e4c85f
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 06:22:33 2022 +0000
+
+    03_04e
+
+commit 702f4e5804bb3cfc1461d8f2de7885a5a95b3229
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 05:32:50 2022 +0000
+
+    03_03e
+
+commit 7decee1d9ac26217d791d049658516863b28bf52
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Sep 7 01:27:43 2022 +0000
+
+    03_02e
+
+commit 432d1ae10b89e46f29e5f864d4c06e821aae64d5
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Sep 5 23:48:40 2022 +0000
+
+    02_01e
+
+commit cf6e101a22e2aac3cda7e69c162b1a81fe630c9c
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Sep 5 21:22:31 2022 +0000
+
+    02_04e
+
+commit 2aeeb618b87bef9ade30bc1b02d316ac3612dac7
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Sep 5 17:14:07 2022 +0000
+
+    refactored useeffect
+
+commit 82119fc24305340cd42143c0cf04e744b21ddde8
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Sep 5 02:26:43 2022 +0000
+
+    02_02e
+
+commit cfb1c51985d6ff605b8095a1963727828cd6102f
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Sep 5 00:40:51 2022 +0000
+
+    02_01e
+
+commit 12e1ba29e83ed7be18e1a8f2c48ae1b482195290
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Thu Sep 1 00:12:08 2022 +0000
+
+    01-05e
+
+commit 5a5501dc11c18df6ca73a53c531dfc8ed68de438
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Aug 31 23:42:11 2022 +0000
+
+    01_04e
+
+commit 4a1bdac3725c544b0c20f070418504928baf7d43
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Aug 31 02:56:54 2022 +0000
+
+    Finished 01_03
+
+commit fff7f3b11d645f0aef9067db6db0e19972633ca1
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Aug 31 00:50:26 2022 +0000
+
+    Finished 01_02e
+
+commit 873cceb7da4b84ffea94b9192fc274e0390c9f08
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Wed Aug 31 00:19:51 2022 +0000
+
+    01_02b
+
+commit 00ace12849c7623898eaeb35708961452b18fb56
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Aug 30 14:47:08 2022 +0000
+
+    finished components
+
+commit 1055bfdbc82d00e639276911a76402ed8647e4e9
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 22:27:10 2022 -0400
+
+    Update devcontainer.json
+
+commit 26592f762b89dcbc345fe91134b012b8432dbcf8
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 21:59:13 2022 -0400
+
+    Update .gitignore
+
+commit b989ddab79550c51e6edabc71600cb92b80a6ea9
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 21:58:36 2022 -0400
+
+    Update .gitignore
+
+commit b2c30f0c389f664799a672dd8d28d2e5366b8ba5
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 21:46:25 2022 -0400
+
+    Update devcontainer.json
+
+commit b0183966157acb6e81d10b7a34e06b1b2f45e292
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 21:45:13 2022 -0400
+
+    Update devcontainer.json
+
+commit c073d2e78631b5d2bab6bd71161b243ba0f574ff
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 21:40:52 2022 -0400
+
+    Update devcontainer.json
+
+commit 436e546ec8fbd860f9c37e2410e43359226ab5fa
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Tue Aug 30 01:08:17 2022 +0000
+
+    01_01t finished
+
+commit f90151a9951a84761e45af1f20b1181b7bc63295
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Mon Aug 29 20:20:01 2022 +0000
+
+    End of Video Target
+
+commit 5c01cd3cc7f5cbc7551f1545ff3eb7b2d648b5f8
+Author: Ray Villalobos <ray@planetoftheweb.com>
+Date:   Sun Aug 28 11:54:21 2022 +0000
+
+    working on new structure
+
+commit 09ee0be0b1a7007d8e9833f315ea4b1d82fac400
+Author: Patrick Stevens <pstevens@linkedin.com>
+Date:   Thu Jun 30 13:04:51 2022 -0700
+
+    Initial commit
